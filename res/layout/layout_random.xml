@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@android:id/tabcontent"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:padding="5dp" >
+    <Button android:id="@+id/button1" android:text="@string/flipCoin" android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content"></Button>
+    <Button android:id="@+id/button2" android:text="@string/rollDie" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:layout_width="match_parent"></Button>
+    <TextView android:id="@+id/textView1" android:text="" android:textSize="180sp" android:layout_height="match_parent" android:layout_width="match_parent" android:layout_gravity="center" android:gravity="center"></TextView>
+</LinearLayout>

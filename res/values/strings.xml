@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yu-Gi-Oh! Life Counter Free</string>
+    <string name="heads">H</string>
+    <string name="tails">T</string>
+    <string name="flipCoin">Flip a Coin</string>
+    <string name="rollDie">Roll Six-Sided Die</string>
+    <string name="reset">Reset</string>
+    <string name="yourLifepoints">Your Lifepoints:</string>
+    <string name="enemyLifepoints">Opponent\'s Lifepoints:</string>
+    <string name="num_8000">8000</string>
+    <string name="plus_1000">+1000</string>
+    <string name="plus_500">+500</string>
+    <string name="plus_100">+100</string>
+    <string name="plus_50">+50</string>
+    <string name="minus_1000">-1000</string>
+    <string name="minus_500">-500</string>
+    <string name="minus_100">-100</string>
+    <string name="div_2">/2</string>
+</resources>
